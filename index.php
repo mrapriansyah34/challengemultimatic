@@ -284,7 +284,7 @@
                 <span class="course-price">$0</span>
                 <div class="meta"><span class="icon-clock-o"></span>5 Lessons / 7 week</div>
                 <h3><a href="#">Python</a></h3>
-                <p>Begin your journey in the world of AI. </p>
+                <p>Begin your journey in the worlds of AI. </p>
               </div>
               <div class="d-flex border-top stats">
                 <div class="py-3 px-4"><span class="icon-users"></span> 2,453 students</div>

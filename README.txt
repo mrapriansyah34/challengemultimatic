@@ -15,7 +15,7 @@ then click on "go"
 
  4)click on "Databases" ( Bases de données )  then write inside the Database Name : "loginsystemtut" then click on "create"
 
-5)click on the "Import" tab up top and then write this data loginsystemtut.sql in folder db
+5)click on the "Import" tab up top and then write this data loginsystemtut.sql in folder E:\e-learning\db (file db in directory e-learning)
   
 6) click "go" or "execute" 
 

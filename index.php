@@ -632,7 +632,7 @@
 
           <div class="col-md-4">
             <h3>Subscribe</h3>
-            <p>Keep yourself up to date and receive all kind of news about LAcademy.</p>
+            <p>Keep yourself up to date and receive all kind of news about Learn4u.</p>
             <form action="https://mailchi.mp/064deb47eeaa/lacdemy" target="_blank" class="footer-subscribe">
               <div class="d-flex mb-5">
 
